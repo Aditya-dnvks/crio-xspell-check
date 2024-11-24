@@ -2,7 +2,7 @@ import SpellCheckApp from "./SpellCheck";
 
 function App() {
   return (
-    <div className="App">
+    <div className="p-3">
       <SpellCheckApp />
     </div>
   );
